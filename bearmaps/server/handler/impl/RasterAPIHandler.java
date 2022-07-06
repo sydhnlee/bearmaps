@@ -22,7 +22,7 @@ import static bearmaps.utils.Constants.*;
 /**
  * Handles requests from the web browser for map images. These images
  * will be rastered into one large image to be displayed to the user.
- * @author rahul, Josh Hug, _________
+ * @author rahul, Josh Hug, Sydney Lee
  */
 public class RasterAPIHandler extends APIRouteHandler<Map<String, Double>, Map<String, Object>> {
 

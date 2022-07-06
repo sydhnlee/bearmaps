@@ -5,7 +5,7 @@ Bear Maps is a clone of Google Maps that spans the surrounding area of UC Berkel
 
 <img src="images/demo.gif" alt="demo_gif" width="100%"/>
 
-Feature | Description
+Implementation | Description
 ------- | -------
 [RasterAPIHandler](https://github.com/sydhnlee/BearMaps/blob/main/bearmaps/server/handler/impl/RasterAPIHandler.java) | Renders map images given a user's display area and level of zoom.
 [AugmentedStreetMapGraph](https://github.com/sydhnlee/BearMaps/blob/main/bearmaps/AugmentedStreetMapGraph.java) | Graph representation of the contents of Berkeley Open Street Map data.
